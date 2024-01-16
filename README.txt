@@ -27,7 +27,25 @@ Fig. 5: To generate the left panel first run
         Code/Figure_generator/Figure 5/angular/Plot_partonic_linear.nb and then 
         Code/Figure_generator/Figure 5/angular/Plot_partonic.nb
 
-Fig. 6: 
+Fig. 6: 3 TeV: Code/Figure_generator/Figure 6/3TeV Plot/Overlay copy.nb
+        10 TeV: Code/Figure_generator/Figure 6/Overlay copy.nb
+
+Fig. 7: 
+
+Fig. 8: 
+
+Fig. 9: left panel: Code/Figure_generator/Figure 9/Plot_partonic.nb
+        right panel: Code/Figure_generator/Figure 9/Angular/Plot_partonic.nb
+
+Fig. 10: 3 TeV: Code/Figure_generator/Figure 10/3TeV/Overlay copy.nb
+         10 TeV: Code/Figure_generator/Figure 10/10 TeV/Overlay copy.nb
+
+Fig. 11: 3 TeV: Code/Figure_generator/Figure 11/3 TeV/chi-square.nb
+         10 TeV: Code/Figure_generator/Figure 11/10 TeV/chi-square.nb
+
+Fig. 12: 
+
+Fig. 13: Code/Figure_generator/Figure 13/Overlay copy.nb
 
 
 
