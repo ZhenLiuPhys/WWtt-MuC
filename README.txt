@@ -8,9 +8,11 @@ Codes for electroweak PDF can be found in Code/Electroweak PDF/
 
 Below are some general comments regarding how to generate each figures, more detailed comments can be found in their respective folders:
 
-Fig. 2:  Each panel in the figure are generated seperately and combined manually. For example, to generate partonic distribution for
-         WW>tt, goto Code/Figure_generator/Figure2/WWtt/ and run Plot_partonic.nb. Similarly, for other channels of interest,
-         run Plot_partonic.nb in their respective folder in Code/Figure_generator/Figure2/
+Fig. 2:  Each panel in the figure are generated seperately and combined manually. 
+         For example, to generate partonic distribution for WW>tt, goto
+         Code/Figure_generator/Figure2/WWtt/ and run Plot_partonic.nb. 
+         Similarly, for other channels of interest, run Plot_partonic.nb in their 
+         respective folder in Code/Figure_generator/Figure2/
 
 Fig. 3: 3 TeV: Code/Figure_generator/Figure3/3TeV/Plot_Convolute 2.nb 
         10 TeV:  Code/Figure_generator/Figure3/10TeV/Plot_Convolute.nb 
