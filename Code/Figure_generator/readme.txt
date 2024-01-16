@@ -1,1 +1,1 @@
-Data files that can be used to generate the plots in the paper
+Data files for each figure are in their appropiate folders. 
