@@ -30,7 +30,8 @@ Fig. 5: To generate the left panel first run
 Fig. 6: 3 TeV: Code/Figure_generator/Figure 6/3TeV Plot/Overlay copy.nb
         10 TeV: Code/Figure_generator/Figure 6/Overlay copy.nb
 
-Fig. 7: 
+Fig. 7: 3 TeV: Code/Figure_generator/Figure 7/3 TeV/chi-square-test-3TeV.nb
+        10 TeV: Code/Figure_generator/Figure 7/10 TeV/chi-square-test-10TeV.nb
 
 Fig. 8: 
 
