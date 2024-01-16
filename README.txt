@@ -1,8 +1,8 @@
 This repository contains all the code used to generate the plots and figures in arXiv:2308.06323.
 If you have any questions, please contact: Ishmam Mahbub (mahbu008@umn.edu)
 
-Go to Code/Figure_generator/ and download all files in each folder with appropriate figure number, then run the .nb file to 
-reproduce the figures
+Go to Code/Figure_generator/ and download all files in each folder with appropriate figure number,
+then run the .nb file to reproduce the figures
 
 Codes for electroweak PDF can be found in Code/Electroweak PDF/
 
