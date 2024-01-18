@@ -1,4 +1,4 @@
-This repository contains all the code used to generate the plots and figures in arXiv:2308.06323.
+This repository contains all the code used to generate the plots and figures in arXiv:2308.06323. Please refer to this work properly if you use any scientific content of this repository. 
 If you have any questions, please contact: Ishmam Mahbub (mahbu008@umn.edu)
 
 Go to Code/Figure_generator/ and download all files in each folder with appropriate figure number,
